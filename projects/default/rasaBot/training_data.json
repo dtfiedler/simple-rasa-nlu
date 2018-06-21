@@ -1,0 +1,156 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "whats up", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "what's up", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "greetings", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good morning", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good afternoon", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good evening", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "goodbye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "okay, goodbye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "have a good one", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "that is all", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "good night", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "see ya", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "yes", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yep", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yeah", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "indeed", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "that's right", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "ok", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "great", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "right, thank you", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "correct", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "great choice", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "sounds really good", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "asdfasdfasdf", 
+        "intent": "fallback"
+      }, 
+      {
+        "text": "you're sexy", 
+        "intent": "fallback"
+      }, 
+      {
+        "text": "i love you", 
+        "intent": "fallback"
+      }, 
+      {
+        "text": "sharskshasdf;", 
+        "intent": "fallback"
+      }, 
+      {
+        "text": "aiaaiaaaaa", 
+        "intent": "fallback"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}

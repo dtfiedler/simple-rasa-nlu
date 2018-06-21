@@ -1,0 +1,6 @@
+{
+    "fixed_model_name": "rasaBot",
+    "pipeline": "spacy_sklearn",
+    "path" : "./projects",
+    "data" : "./data/training-data.json"
+}
