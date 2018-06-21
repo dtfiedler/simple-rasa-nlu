@@ -11,7 +11,7 @@ Follow the docs to install RasaNLU available [here](https://nlu.rasa.com/install
 ## To run:
 
 ``` 
-git clone git@github.build.ge.com:GSIT/simple-rasa-nlu.git
+git clone git@github.com:dtfiedler/simple-rasa-nlu.git
 cd simple-rasa-nlu
 python -m rasa_nlu.server --path projects/default
 ```
