@@ -51,7 +51,7 @@ You should see the following response:
         }
 4. Run the command (this trains Rasa based on your input)
 ```
-    python -m rasa_nlu.train -c config_spacy.json
+python -m rasa_nlu.train -c config_spacy.json
 ```
 5. This should create a new folder in the projects/default  directory called <PROJECT_NAME>
 6. Rerun your server by running the command: 
