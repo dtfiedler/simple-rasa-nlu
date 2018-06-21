@@ -38,7 +38,7 @@ You should see the following response:
 
 # Adding your own project
 
-## Steps: 
+#### Steps: 
 1. Create your own training data using the site available [here](https://rasahq.github.io/rasa-nlu-trainer/)
 2. Download the file using the "Download" button in top right as <PROJECT_NAME>-trainging-data.json and save it in the [data](data) directory
 3. Update the [config_spacy.json](config_spacy.json) file to:
