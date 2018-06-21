@@ -1,0 +1,1 @@
+{"user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hello there"}, "log_namespace": "query-logger", "log_level": {"__class_uuid__": "02e59486-f24d-46ad-8224-3acdf2a5732a", "name": "info"}, "log_source": null, "log_format": "", "project": "rasaBot", "log_logger": {"unpersistable": true}, "model": "fallback", "log_time": 1529601964.89364}
